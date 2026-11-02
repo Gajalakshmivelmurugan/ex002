@@ -445,11 +445,17 @@ footer {
 ```
 
 ## OUTPUT
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](<Screenshot 2026-11-02 205414.png>)
+## Output 
+
+![Home Page](image-5.png)
+
+![About Page](image-6.png)
+
+![Menu Page](image-7.png)
+
+![Offers Page](image-8.png)
+
+![Contact Page](Screenshot%202026-11-02%20205414.png)
 ## RESULT
 
 Thus, a commercial restaurant website named **Foodie's Corner** was successfully designed and developed using HTML and CSS Flexbox with multiple pages, navigation links, food menu, special offers, contact details, responsive layout, and footer.
